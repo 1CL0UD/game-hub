@@ -16,7 +16,7 @@ const SearchInput = ({ onSearch }: Props) => {
       }}
     >
       <InputGroup>
-        <InputLeftElement color={'gray.500'}>
+        <InputLeftElement color={'blue.500'}>
           <BsSearch />
         </InputLeftElement>
         <Input
